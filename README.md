@@ -12,7 +12,7 @@
 - Python + SQL Integration
 
 ## 📝 Notion Notes
-[Click Here](your-notion-link)
+[Click Here](https://sai-krishna-sql.notion.site/SQL-37151eae4f64820f97f481618392d372?pvs=143)
 
 ## 📁 Folder Structure
 - /notes → SQL query files
